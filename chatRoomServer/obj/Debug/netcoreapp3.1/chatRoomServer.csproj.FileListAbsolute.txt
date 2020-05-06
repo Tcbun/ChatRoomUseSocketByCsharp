@@ -1,0 +1,12 @@
+/Users/apple/Desktop/cs/chatRoomServer/bin/Debug/netcoreapp3.1/chatRoomServer.deps.json
+/Users/apple/Desktop/cs/chatRoomServer/bin/Debug/netcoreapp3.1/chatRoomServer.runtimeconfig.json
+/Users/apple/Desktop/cs/chatRoomServer/bin/Debug/netcoreapp3.1/chatRoomServer.runtimeconfig.dev.json
+/Users/apple/Desktop/cs/chatRoomServer/bin/Debug/netcoreapp3.1/chatRoomServer.dll
+/Users/apple/Desktop/cs/chatRoomServer/bin/Debug/netcoreapp3.1/chatRoomServer.pdb
+/Users/apple/Desktop/cs/chatRoomServer/obj/Debug/netcoreapp3.1/chatRoomServer.csprojAssemblyReference.cache
+/Users/apple/Desktop/cs/chatRoomServer/obj/Debug/netcoreapp3.1/chatRoomServer.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/cs/chatRoomServer/obj/Debug/netcoreapp3.1/chatRoomServer.AssemblyInfoInputs.cache
+/Users/apple/Desktop/cs/chatRoomServer/obj/Debug/netcoreapp3.1/chatRoomServer.AssemblyInfo.cs
+/Users/apple/Desktop/cs/chatRoomServer/obj/Debug/netcoreapp3.1/chatRoomServer.dll
+/Users/apple/Desktop/cs/chatRoomServer/obj/Debug/netcoreapp3.1/chatRoomServer.pdb
+/Users/apple/Desktop/cs/chatRoomServer/obj/Debug/netcoreapp3.1/chatRoomServer.genruntimeconfig.cache

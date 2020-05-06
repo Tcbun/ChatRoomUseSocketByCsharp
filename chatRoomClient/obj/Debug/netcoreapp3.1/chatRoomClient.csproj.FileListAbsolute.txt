@@ -1,0 +1,12 @@
+/Users/apple/Desktop/cs/chatRoomClient/bin/Debug/netcoreapp3.1/chatRoomClient.deps.json
+/Users/apple/Desktop/cs/chatRoomClient/bin/Debug/netcoreapp3.1/chatRoomClient.runtimeconfig.json
+/Users/apple/Desktop/cs/chatRoomClient/bin/Debug/netcoreapp3.1/chatRoomClient.runtimeconfig.dev.json
+/Users/apple/Desktop/cs/chatRoomClient/bin/Debug/netcoreapp3.1/chatRoomClient.dll
+/Users/apple/Desktop/cs/chatRoomClient/bin/Debug/netcoreapp3.1/chatRoomClient.pdb
+/Users/apple/Desktop/cs/chatRoomClient/obj/Debug/netcoreapp3.1/chatRoomClient.csprojAssemblyReference.cache
+/Users/apple/Desktop/cs/chatRoomClient/obj/Debug/netcoreapp3.1/chatRoomClient.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/cs/chatRoomClient/obj/Debug/netcoreapp3.1/chatRoomClient.AssemblyInfoInputs.cache
+/Users/apple/Desktop/cs/chatRoomClient/obj/Debug/netcoreapp3.1/chatRoomClient.AssemblyInfo.cs
+/Users/apple/Desktop/cs/chatRoomClient/obj/Debug/netcoreapp3.1/chatRoomClient.dll
+/Users/apple/Desktop/cs/chatRoomClient/obj/Debug/netcoreapp3.1/chatRoomClient.pdb
+/Users/apple/Desktop/cs/chatRoomClient/obj/Debug/netcoreapp3.1/chatRoomClient.genruntimeconfig.cache
